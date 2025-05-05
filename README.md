@@ -4,7 +4,7 @@ A simple Python app that fetches a random quote from the internet and displays i
 
 ### Features
 - Clean, minimal design
-- Quotes fetched from `https://api.quotable.io`
+- Quotes fetched from `Zenquotes`
 - Built with `tkinter`
 
 ### How to Run
